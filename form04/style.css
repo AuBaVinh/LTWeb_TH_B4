@@ -1,0 +1,32 @@
+*{
+    font-family: Arial;
+    font-size: 11pt;
+}
+th{
+    font-size: 16pt;
+    background: blue;
+    color: whitesmoke;
+    padding: 5px;
+}
+table{
+    border: 1px solid blue;   
+    border-collapse: collapse;
+    background: lavender;
+}
+input{
+    border: 1px dotted blue;
+    background: lightcyan;
+}
+button{
+    border: 1px solid aqua;
+    background: blue;
+    color: whitesmoke;
+}
+select{
+    border: 1px dotted blue;
+    background: lightcyan;
+}
+textarea{
+    border: 1px dotted blue;
+    background: lightcyan;
+}
